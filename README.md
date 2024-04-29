@@ -1,5 +1,7 @@
 # React 18: Automatic Batching
 
+URL: https://mizunashi-mana.github.io/react18-legacy-render-try/
+
 `ReactDOM.render` vs `ReactDOM.createRoot(...).render`
 
 ## TL;DR
